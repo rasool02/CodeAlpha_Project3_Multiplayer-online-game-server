@@ -1,0 +1,14 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+#login {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#game {
+  text-align: center;
+  margin-top: 50px;
+}
